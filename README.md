@@ -1,4 +1,4 @@
-# 📝 Code Analysis Report
+#  Code Analysis Report
 
 ###  Origin
 - **Source:** [نام ویدیو یا لینک سوال لیت‌کد]
